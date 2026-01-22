@@ -14,5 +14,6 @@ class Solution(object):
             j = col-i-1
             if(i!= j):
                 sum += mat[i][j]
-        return sum            
+        return sum 
+                   
         
